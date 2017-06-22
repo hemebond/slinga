@@ -1,2 +1,2 @@
 # slinga
-A Slack to Icinga2 API translator/interface.
+Control Icinga2 via interactive Slack messages using this Flask app and notification script.

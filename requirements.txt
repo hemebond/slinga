@@ -1,0 +1,3 @@
+flask
+requests
+git+https://github.com/fmnisme/python-icinga2api.git
