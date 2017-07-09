@@ -1,0 +1,1 @@
+from .slinga import app
